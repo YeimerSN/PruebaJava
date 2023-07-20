@@ -26,7 +26,7 @@ Este endpoint lista todos los productos que se encunetran creados, en el formato
 }
 ```
 
-![Ejemplo GetAllProducts](https://row.github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/AllProducts.png)
+![Ejemplo GetAllProducts](https://github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/AllProducts.png)
 
 * GetAllCategories, accedido a __/nexsys/v1/categories__
 
@@ -39,7 +39,7 @@ Este endpoint permite listar todas las categorias de los productos que se encunt
 }
 ```
 
-![Ejemplo GetAllCategories](https://row.github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/AllCategories.png)
+![Ejemplo GetAllCategories](https://github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/AllCategories.png)
 
 * PostPorducts, accediendo a __/nexsys/v1/products__
 
@@ -63,4 +63,4 @@ Y la respuesta una vez guardado el producto es como se muestra a continuación:
 }
 ```
 
-![Ejemplo PostProduct](https://row.github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/PostProduct.png)
+![Ejemplo PostProduct](https://github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/PostProduct.png)
