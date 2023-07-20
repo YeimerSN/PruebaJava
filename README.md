@@ -11,11 +11,11 @@ El proyecto consistia en la creación de tres endpoints haciendo uso de los serv
 * Java 17
 * Maven 3.9.3
 
-El servicio web se encuentra desplegado en siguiente enlace __https://yeimerserranobackendjava.onrender.com__ y el cual cuenta con los siguientes endpoints.
+El servicio web se encuentra desplegado en el siguiente enlace __https://yeimerserranobackendjava.onrender.com__ y el cual cuenta con los siguientes endpoints.
 
 * GetAllProducts, accediendo a __/nexsys/v1/products__
 
-Este endpoint lista todos los productos que se encunetran creados, en el formato especifico de la prueba, cuya tiene la siguiente estructura.
+Este endpoint lista todos los productos que se encunetran creados, en el formato especifico de la prueba, la cual tiene la siguiente estructura.
 
 ```json
 {
@@ -28,9 +28,9 @@ Este endpoint lista todos los productos que se encunetran creados, en el formato
 
 ![Ejemplo GetAllProducts](https://github.com/YeimerSN/PruebaJava/blob/main/src/main/resources/static/AllProducts.png)
 
-* GetAllCategories, accedido a __/nexsys/v1/categories__
+* GetAllCategories, accediendo a __/nexsys/v1/categories__
 
-Este endpoint permite listar todas las categorias de los productos que se encuntran disponibles, y la respuesta del endpoint es de la siguiente manera.
+Este endpoint permite listar todas las categorias de los productos que se encuentran disponibles, y la respuesta del endpoint es de la siguiente manera.
 
 ```json
 {
@@ -43,7 +43,7 @@ Este endpoint permite listar todas las categorias de los productos que se encunt
 
 * PostPorducts, accediendo a __/nexsys/v1/products__
 
-Este endpoint solicita un objeto json de la siguiente manera:
+Este endpoint recibe un objeto json de la siguiente manera:
 
 ```json
 {
